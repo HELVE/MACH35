@@ -4,7 +4,17 @@
 
 <a name="intro"></a> 
 # MACH35 - QUICKEST AUDIO PROTOTYPING PRO APP
-Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
+Mach35 enables you to start recording a vocal prototype in 3 seconds. 
+
+Name comes from the highest recorded speed of sound (12000m/sec) - travelling through diamond.
+
+x
+
+x
+
+x
+
+x
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
