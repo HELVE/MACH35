@@ -15,6 +15,7 @@ Logo is a vibrating gem!
 - unlimited tracks
 - basic EQ
 - basic effects
+- tempo meter
 - paid advanced effects
 - paid advanced EQ
 - paid: no audiomark
