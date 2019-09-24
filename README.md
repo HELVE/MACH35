@@ -7,8 +7,19 @@
 Mach35 enables you to start recording a vocal prototype in 3 seconds. 
 
 Name comes from the highest recorded speed of sound (12000m/sec) - travelling through diamond.
+Logo is a vibrating gem!
 
-Logo is a vibrating gem.
+- quick prototyping
+- quality setting
+- 3 seconds from open to record
+- presets for even quicker use
+- unlimited tracks
+- basic EQ
+- basic effects
+- paid advanced effects
+- paid advanced EQ
+-
+
 
 x
 
