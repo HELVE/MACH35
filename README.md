@@ -9,6 +9,10 @@ Mach35 enables you to start recording a vocal prototype in 3 seconds.
 Name comes from the highest recorded speed of sound (12000m/sec) - travelling through diamond.
 Logo is a vibrating gem!
 
+FREEMIUM MODEL / OR SUBSCRIPTION MODEL (CHEAP) (9.99PLN/month)]
+
+Freemium Model:
+
 - quick prototyping
 - quality setting
 - 3 seconds from open to record
