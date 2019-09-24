@@ -16,6 +16,8 @@ Logo is a vibrating gem!
 - basic EQ
 - basic effects
 - tempo meter
+- song key generator/finder
+- bpm finder
 - paid advanced effects
 - paid advanced EQ
 - paid: no audiomark
