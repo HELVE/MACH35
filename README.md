@@ -20,6 +20,8 @@ FREEMIUM MODEL / OR SUBSCRIPTION MODEL (CHEAP) (9.99PLN/month)]
 - audio quality settings
 - independent track volume settings
 - mute/unmute
+- track elements linking (chaining)
+- track locking
 - unlimited tracks
 - basic EQ
 - basic effects
