@@ -12,13 +12,16 @@ Logo is a vibrating gem!
 - quick prototyping
 - quality setting
 - 3 seconds from open to record
-- presets for even quicker use
 - unlimited tracks
 - basic EQ
 - basic effects
 - paid advanced effects
 - paid advanced EQ
--
+- paid: no audiomark
+- paid: presets for even quicker use
+- paid: no ads (don't use ads to monetize this type of app, it is functional, don't make them stare at bullshit)
+- paid: cloud save (storage)
+- paid: 
 
 
 x
