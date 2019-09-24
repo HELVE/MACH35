@@ -11,17 +11,24 @@ Logo is a vibrating gem!
 
 FREEMIUM MODEL / OR SUBSCRIPTION MODEL (CHEAP) (9.99PLN/month)]
 
-Freemium Model:
+**Freemium Model**
+
+ Free:
 
 - quick prototyping
-- quality setting
 - 3 seconds from open to record
+- audio quality settings
+- independent track volume settings
+- mute/unmute
 - unlimited tracks
 - basic EQ
 - basic effects
-- tempo meter
-- song key generator/finder
-- bpm finder
+- tempo meter (doubles as a analysis app tool)
+- song key generator/finder (doubles as a analysis app tool)
+- bpm finder (doubles as a analysis app tool)
+
+Paid:
+
 - paid advanced effects
 - paid advanced EQ
 - paid: no audiomark
